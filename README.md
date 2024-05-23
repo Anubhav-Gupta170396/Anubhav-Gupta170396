@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Anubhav17031996/Anubhav170396/blob/main/White%20Minimalist%20Data%20Analyst%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Anubhav Gupta</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
