@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-gupta170396&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-gupta170396" /> </p>
 
-- 🔭 I’m currently working on **SAP Data Project**
+- 🔭 I’m currently working on **Data Science Project**
 
 - 🌱 I’m currently learning **DL, NLP, GenAI**
 
